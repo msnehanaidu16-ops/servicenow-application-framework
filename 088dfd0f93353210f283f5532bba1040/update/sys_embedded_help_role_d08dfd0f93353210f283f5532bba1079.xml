@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_479665_devops_0.user" name="x_479665_devops_0.user">1c8dfd0f93353210f283f5532bba1076</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 09:41:07</sys_created_on>
+        <sys_id>d08dfd0f93353210f283f5532bba1079</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1c8dfd0f93353210f283f5532bba1076</sys_name>
+        <sys_package display_value="DevOps Git Demo App" source="x_479665_devops_0">088dfd0f93353210f283f5532bba1040</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevOps Git Demo App">088dfd0f93353210f283f5532bba1040</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d08dfd0f93353210f283f5532bba1079</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 09:41:07</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
